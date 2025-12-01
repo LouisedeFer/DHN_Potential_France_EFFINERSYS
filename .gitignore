@@ -1,0 +1,17 @@
+# Environnement virtuel Python
+reseau_de_chaleur/
+venv/
+.env 
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers IDE/éditeurs
+.idea/
+.vscode/
+*.swp
